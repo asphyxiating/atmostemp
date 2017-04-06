@@ -1,0 +1,2 @@
+debian/bin/atmosd usr/bin
+src/atmosd usr/lib/atmos

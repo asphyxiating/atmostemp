@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=atmos
+Comment=atmos P2P Cryptocurrency
+Comment[fr]=atmos, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=atmos, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/atmos-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/atmos;
+Categories=Office;
